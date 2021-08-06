@@ -63,25 +63,32 @@
 				<key>WiFi_1</key>
 				<dict>
 					<key>password</key>
-					<string>blueexist151</string>
+					<string>zxyssdt112233</string>
 					<key>ssid</key>
-					<string>Horizon</string>
+					<string>ssdt</string>
 				</dict>
 				<key>WiFi_2</key>
 				<dict>
 					<key>password</key>
-					<string>blueexist151</string>
+					<string>zxyssdt112233</string>
 					<key>ssid</key>
-					<string>Horizon_5G</string>
+					<string>ssdt_5G</string>
 				</dict>
 				<key>WiFi_3</key>
 				<dict>
 					<key>password</key>
-					<string>12312356</string>
+					<string></string>
 					<key>ssid</key>
-					<string>Jack</string>
+					<string>Redmi</string>
 				</dict>
-							</dict>
+				<key>WiFi_4</key>
+				<dict>
+					<key>password</key>
+					<string>9utc5c5f</string>
+					<key>ssid</key>
+					<string>CMCC-KtG6</string>
+				</dict>
+			</dict>
 		</dict>
 	</dict>
 	<key>LSMinimumSystemVersion</key>
